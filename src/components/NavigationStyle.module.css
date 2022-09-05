@@ -1,0 +1,12 @@
+.list
+{
+    color:white;
+    font-family:arial;
+    list-style-type:none;
+    text-align:center;
+}
+.list li
+{
+    display:inline-block;
+    margin:20px;
+}

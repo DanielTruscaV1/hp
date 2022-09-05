@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+.title
+{
+    font-family: 'MedievalSharp', cursive;
+    display:inline-block;
+    position:relative;
+    left:45%;
+    color:white;
+}
+.button
+{
+    position:relative;
+    left:80%;
+    background-color:rgb(100, 100, 200);
+    color:white;
+    border:none;
+    border-radius:5px;
+    width:80px;
+    height:30px;
+}
