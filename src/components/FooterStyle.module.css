@@ -1,0 +1,46 @@
+.container
+{
+    background-color:rgb(10, 20, 20);
+    color:white;
+    font-family:arial;
+    padding:50px;
+}
+.container2
+{
+    border:2px solid white;
+}
+.list
+{
+    list-style-type:none;
+    display:inline-block;
+}
+.listElement
+{
+    padding:10px;
+}
+.line{
+    width:80%;
+    height:1px;
+    background-color:white;
+    margin-bottom:20px;
+}
+.text
+{
+    font-size:14px;
+    padding-left:50px;
+    width:50%;
+    color:rgb(150, 150, 150);
+}
+.container a
+{
+    font-size:20px;
+    padding:10px;
+    color:white;
+    border-radius:50%;
+    background-color:rgb(50, 50, 50);
+    text-decoration:none;
+    margin:10px;
+    position:relative;
+    left:80%;
+    top:-160px;
+}

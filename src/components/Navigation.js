@@ -4,7 +4,7 @@ import NavigationStyle from "./NavigationStyle.module.css";
 const Navigation = () => {
     const handleMouseOver = () => {
         document.getElementById("headerContainer").style.backgroundColor = "rgb(50, 50, 50)";
-        document.getElementById("navigationContainer").style.backgroundColor = "rgb(10, 10, 10)";
+        document.getElementById("navigationContainer").style.backgroundColor = "rgb(10, 20, 20)";
     }
     const handleMouseOut = () => {
         document.getElementById("navigationContainer").style.backgroundColor = "transparent";
