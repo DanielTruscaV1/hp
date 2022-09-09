@@ -11,3 +11,60 @@
     text-align:center;
     padding-top:170px;
 }
+.image1
+{
+    width:400px;
+    height:300px;
+    position:relative;
+    left:30px;
+    top:200px;
+    box-shadow:10px 10px rgb(100, 50, 50);
+}
+.description1
+{
+    font-family:arial;
+    color:white;
+    font-size:30px;
+    width:300px;
+    position:relative;
+    left:100px;
+    top:50px;
+}
+.image2
+{
+    width:400px;
+    height:300px;
+    position:relative;
+    left:550px;
+    top:-335px;
+    box-shadow:10px 10px rgb(50, 100, 50);
+}
+.description2
+{
+    font-family:arial;
+    color:white;
+    font-size:30px;
+    width:300px;
+    position:relative;
+    left:580px;
+    top:-480px;
+}
+.image3
+{
+    width:400px;
+    height:300px;
+    position:relative;
+    left:1050px;
+    top:-870px;
+    box-shadow:10px 10px rgb(50, 50, 100);
+}
+.description3
+{
+    font-family:arial;
+    color:white;
+    font-size:30px;
+    width:300px;
+    position:relative;
+    left:1080px;
+    top:-960px;
+}
